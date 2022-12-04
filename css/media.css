@@ -1,0 +1,109 @@
+@media(max-width:575px){
+    .logo{
+        display: none;
+        
+    }
+    .main_logo{
+        display: inline-block;
+    }
+    .main_logo img{
+        width: 150px;
+    }
+    .navbar {
+        padding: 0;
+        padding: 0;
+    }
+    .btn-appoinment{
+        display: none;
+    }
+    .banner-img{
+        display: none;
+    }
+    .banner-pro{
+        text-align: center;
+    }
+    .banner-pro p{
+        text-align: center;
+    }
+    .banner{
+        min-height: 55vh;
+    }
+    .img-position {
+        
+        min-height: 55vh;
+    }
+    .welcome_img{
+        display: none;
+    }
+    .welcome_section{
+        text-align: center;
+    }
+    .meet_doctors{
+        text-align: center;
+    }
+   
+
+    
+    .happy_client2 .owl-item img{
+        display: block;
+        width:40%;
+        margin: auto;
+        
+    }
+    .clients-carousel .owl-item img{
+        display: none;
+        width: 50%;
+    }
+    .banner-pro p {
+        color: #636363;
+        font-size: 13px;
+        width: 100%;
+        line-height: 24px;
+        margin: 15px 0;
+        margin-bottom: 30px;
+        padding: 2px 80px;
+    }
+    .welcome_section p {
+        font-size: 14px;
+        color: #636363;
+        margin: 10px 0;
+        padding: 0 50px;
+    }
+    .section_header {
+        color: #363636;
+        padding: 0 30px;
+    }
+    .top-footer {
+        background-color: #191919;
+        padding: 0px 25px;
+    }
+    .tooth_header {
+        border: 3px solid #63636327;
+        padding: 25px;
+        margin: 0 30px;
+        margin-bottom: 10px;
+    }
+    .plan {
+        border: 3px solid #fff;
+        padding: 0;
+        margin: 0;
+        margin: 10px 30px;
+    }
+    .section_header2 {
+        color: #fff;
+        padding: 0 20px;
+    }
+    .top_header{
+        display: flex;
+        justify-content: center;
+    }
+    .banner-pro p {
+        color: #636363;
+        font-size: 13px;
+        width: 100%;
+        line-height: 24px;
+        margin: 15px 0;
+        margin-bottom: 12px;
+        padding: 0px 80px;
+    }
+}
