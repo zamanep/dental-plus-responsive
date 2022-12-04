@@ -46,13 +46,12 @@
     
     .happy_client2 .owl-item img{
         display: block;
-        width:40%;
+        width:30%;
         margin: auto;
         
     }
     .clients-carousel .owl-item img{
         display: none;
-        width: 50%;
     }
     .banner-pro p {
         color: #636363;
